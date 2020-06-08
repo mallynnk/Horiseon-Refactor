@@ -10,9 +10,9 @@
     font-size: 48px;
     font-weight: normal;
     font-style: italic;
-    margin: 0;
+    margin: 40px 0 80px;
     border-bottom: 4px solid;
-    padding: 0 80px 15px 80px;
+    padding: 40px 15px 0px;
     color: #ffffff;
 }
 .secondary-content {
