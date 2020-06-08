@@ -49,10 +49,28 @@ footer {
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
+    background: #2a607c;
 }
 
 footer h2 {
     font-size: 20px;
+    color: #ffffff;
+    font-size: 30px;
+    margin: 0;
+}
+
+footer h2 .seo {
+    color: #d9dcd6;
+}
+
+footer div {
+    float: center;
+    line-height: 1.5;
+    text-align: center;
+    color: #ffffff;
+}
+footer a {
+    color: #ffffff;
 }
 
 /* hero style */
