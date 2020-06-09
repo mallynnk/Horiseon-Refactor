@@ -11,9 +11,9 @@ This project takes starter code and refactors it to increase accessibility and e
 https://mallynnk.github.io/Horiseon-Refactor/
 
 ## Screenshot
- ![Screenshot of top of main page](Develop/assets/images/top-of-main-page.png)
- ![Screenshot of bottom of main page](Develop/assets/images/bottom-of-main-page.png)
- ![Screenshot of privacy policy page](Develop/assets/images/privacy-policy-page.png)
+ ![Screenshot of top of main page](assets/images/top-of-main-page.png)
+ ![Screenshot of bottom of main page](assets/images/bottom-of-main-page.png)
+ ![Screenshot of privacy policy page](assets/images/privacy-policy-page.png)
 
 ## Contribution 
 Mallory Korpics
