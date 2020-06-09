@@ -8,7 +8,7 @@ This project takes starter code and refactors it to increase accessibility and e
 * CSS
 
 ## Website
-https://mallynnk.github.io/challenge1/
+https://mallynnk.github.io/Horiseon-Refactor/
 
 ## Screenshot
  ![Screenshot of top of main page](Develop/assets/images/top-of-main-page.png)
