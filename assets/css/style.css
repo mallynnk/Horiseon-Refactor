@@ -7,7 +7,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* header and footer style section */
+/* header style section */
 
 header {
     padding: 20px;
@@ -37,31 +37,6 @@ header nav {
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
-}
-footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-    background: #2a607c;
-}
-footer h2 {
-    font-size: 20px;
-    color: #ffffff;
-    font-size: 30px;
-    margin: 0;
-}
-footer h2 .seo {
-    color: #d9dcd6;
-}
-footer div {
-    float: center;
-    line-height: 1.5;
-    text-align: center;
-    color: #ffffff;
-}
-footer a {
-    color: #ffffff;
 }
 
 /* hero style */
@@ -133,4 +108,32 @@ footer a {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+}
+
+/* footer style section */
+
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    background: #2a607c;
+}
+footer h2 {
+    font-size: 20px;
+    color: #ffffff;
+    font-size: 30px;
+    margin: 0;
+}
+footer h2 .seo {
+    color: #d9dcd6;
+}
+footer div {
+    float: center;
+    line-height: 1.5;
+    text-align: center;
+    color: #ffffff;
+}
+footer a {
+    color: #ffffff;
 }
